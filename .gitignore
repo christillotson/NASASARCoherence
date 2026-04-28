@@ -206,9 +206,9 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-# Ignore my venv - create your own with the requirements.txt
-./SARkitvenv
+# Ignore my venv - create your own with the requirements.txt - might already be handled
+SARkitvenv/
 
 # Ignore the tiffs
-./outputs/*
-./data/*
+outputs/
+data/
